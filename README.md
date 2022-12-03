@@ -2,6 +2,8 @@
 
 I'm wikipop, I have no idea how or why you ended up here, but in case you're not an HTML scraper, I've left a bit of information about me.
 
+<details><summary>CLICK ME</summary>
+
 ```py
 print(wikipop.info_genral)
 ```
@@ -40,5 +42,6 @@ print(dict(wikipop.other))
     archUser: False,
 }
 ```
-
+</details>
+    
 📫 Reach me using discord wikipop#6463

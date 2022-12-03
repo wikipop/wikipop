@@ -1,8 +1,6 @@
 # Hello stranger
 
 I'm wikipop, I have no idea how or why you ended up here, but in case you're not an HTML scraper, I've left a bit of information about me.
-</br>
-@wikipop.fun
 
 <details><summary>General</summary>
 

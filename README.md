@@ -23,7 +23,7 @@ print(wikipop.private_life)
 ```
 </details>
 
-<details><summary>General</summary>
+<details><summary>Intrested In</summary>
 ```py
 print(wikipop.branches)
 ```
@@ -36,7 +36,7 @@ print(wikipop.branches)
 ```
 </details>
 
-<details><summary>General</summary>
+<details><summary>Other</summary>
 ```py
 print(dict(wikipop.other))
 ```

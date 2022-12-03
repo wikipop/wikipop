@@ -48,6 +48,6 @@ print(dict(wikipop.other))
     archUser: False,
 }
 ```
-<details>
+</details>
     
 📫 Reach me using discord wikipop#6463

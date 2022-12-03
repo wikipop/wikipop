@@ -56,7 +56,7 @@ print(dict(wikipop.other))
     
 </details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wikipop)](https://github.com/wikipop)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wikipop&theme=transparent)](https://github.com/wikipop)
     
 📫 Reach me using discord wikipop#6463 <br />
 📫 Or email `wiktor@wikipop.fun`

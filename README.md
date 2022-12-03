@@ -15,15 +15,18 @@ print(wikipop.info_genral)
 </details>
 
 <details><summary>Private Life</summary>
+    
 ```py
 print(wikipop.private_life)
 ```
 ```
 > None
 ```
+    
 </details>
 
 <details><summary>Intrested In</summary>
+    
 ```py
 print(wikipop.branches)
 ```
@@ -34,9 +37,11 @@ print(wikipop.branches)
 > DevOps 
 > PenTesting 
 ```
+    
 </details>
 
 <details><summary>Other</summary>
+    
 ```py
 print(dict(wikipop.other))
 ```
@@ -48,6 +53,7 @@ print(dict(wikipop.other))
     archUser: False,
 }
 ```
+    
 </details>
     
 📫 Reach me using discord wikipop#6463 <br />

@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @wikipop
-- 👀 I’m interested in web development (mostly)
-- 🌱 I’m currently learning gatsby
-- 💞️ I’m using jetbrains IDEs (webstorm and intelj idea) 
-- 📫 U can reach me using discord wikipop#6463
+# Hello stranger
 
-<!---
-wikipop/wikipop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm wikipop, I have no idea how or why you ended up here, but in case you're not an HTML scraper, I've left a bit of information about me.
+
+```py
+print(wikipop.info_genral)```
+```
+> CEO & Owner of wikipop.fun
+> Student
+> 2m tall    
+```
+
+```py
+print(wikipop.private_life)```
+```
+> None
+```
+
+```py
+print(wikipop.branches)```
+```
+> Web development <3
+> UI/UX design
+> Digital art
+> DevOps 
+> PenTesting 
+```
+
+```py
+print(dict(wikipop.other))```
+```
+{
+    tools: [Webstorm, Pycharm, vs_code, nano],
+    languages: [js, python, java],
+    fav_frontend_stack: "T3-stack",
+    archUser: False,
+}
+```
+
+📫 Reach me using discord wikipop#6463

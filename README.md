@@ -50,5 +50,5 @@ print(dict(wikipop.other))
 ```
 </details>
     
-📫 Reach me using discord wikipop#6463
+📫 Reach me using discord wikipop#6463 \n
 📫 Or mail `wiktor@wikipop.fun`

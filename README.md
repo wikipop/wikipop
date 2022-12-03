@@ -2,7 +2,7 @@
 
 I'm wikipop, I have no idea how or why you ended up here, but in case you're not an HTML scraper, I've left a bit of information about me.
 
-<details><summary>CLICK ME</summary>
+<details><summary>General</summary>
 
 ```py
 print(wikipop.info_genral)
@@ -12,14 +12,18 @@ print(wikipop.info_genral)
 > Student
 > 2m tall    
 ```
+</details>
 
+<details><summary>Private Life</summary>
 ```py
 print(wikipop.private_life)
 ```
 ```
 > None
 ```
+</details>
 
+<details><summary>General</summary>
 ```py
 print(wikipop.branches)
 ```
@@ -30,7 +34,9 @@ print(wikipop.branches)
 > DevOps 
 > PenTesting 
 ```
+</details>
 
+<details><summary>General</summary>
 ```py
 print(dict(wikipop.other))
 ```
@@ -42,6 +48,6 @@ print(dict(wikipop.other))
     archUser: False,
 }
 ```
-</details>
+<details>
     
 📫 Reach me using discord wikipop#6463

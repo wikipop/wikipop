@@ -56,5 +56,5 @@ print(dict(wikipop.other))
     
 </details>
     
-📫 Reach me using discord wikipop#6463 <br />
-📫 Or email `wiktor@wikipop.fun`
+Reach me using discord wikipop#6463 <br />
+Or email `wiktor@wikipop.fun`

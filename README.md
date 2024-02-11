@@ -8,20 +8,10 @@ I'm wikipop. I have no idea how or why you ended up here but in case you're not 
 print(wikipop.info_genral)
 ```
 ```
-> CEO & Owner of wikipop.fun
 > Student
 > 2m tall    
 ```
 </details>
-
-<details><summary>Private Life</summary>
-    
-```py
-print(wikipop.private_life)
-```
-```
-> None
-```
     
 </details>
 

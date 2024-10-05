@@ -1,8 +1,8 @@
-# Hello stranger
+# Hello stranger :3
 
-I'm wikipop. I have no idea how or why you ended up here but in case you're not a HTML scraper, I've left a bit of information about me.
+I'm wikipop. I have no idea how or why you ended up here but in case you're not a HTML scraper, I've left a bit of information about me. :3
 
-<details><summary>General</summary>
+<details><summary>General :3</summary>
 
 ```py
 print(wikipop.info_genral)
@@ -15,7 +15,7 @@ print(wikipop.info_genral)
     
 </details>
 
-<details><summary>Intrested In</summary>
+<details><summary>Intrested In :3</summary>
     
 ```py
 print(wikipop.branches)
@@ -30,7 +30,7 @@ print(wikipop.branches)
     
 </details>
 
-<details><summary>Other</summary>
+<details><summary>Other :3</summary>
     
 ```py
 print(dict(wikipop.other))

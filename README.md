@@ -25,7 +25,7 @@ print(wikipop.branches)
 > UI/UX design
 > Digital art
 > DevOps 
-> M~~E~~ATH <3333 
+> MɆATH <3333 
 ```
     
 </details>

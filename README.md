@@ -1,8 +1,8 @@
-# Hello stranger :3
+# Hello stranger
 
-I'm wikipop. I have no idea how or why you ended up here but in case you're not a HTML scraper, I've left a bit of information about me. :3
+I'm wikipop. I have no idea how or why you ended up here but in case you're not a HTML scraper, I've left a bit of information about me.
 
-<details><summary>General :3</summary>
+<details><summary>General</summary>
 
 ```py
 print(wikipop.info_genral)
@@ -15,7 +15,7 @@ print(wikipop.info_genral)
     
 </details>
 
-<details><summary>Intrested In :3</summary>
+<details><summary>Intrested In</summary>
     
 ```py
 print(wikipop.branches)
@@ -25,21 +25,18 @@ print(wikipop.branches)
 > UI/UX design
 > Digital art
 > DevOps 
-> PenTesting 
+> M~~E~~ATH <3333 
 ```
     
 </details>
 
-<details><summary>Other :3</summary>
+<details><summary>Other</summary>
     
 ```py
 print(dict(wikipop.other))
 ```
 ```
 {
-    tools: [Webstorm, Pycharm, vs_code, nano],
-    languages: [js, python, java],
-    fav_frontend_stack: "T3-stack",
     archUser: False,
 }
 ```
